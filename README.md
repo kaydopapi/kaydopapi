@@ -38,7 +38,7 @@
 
 ### 💬 Как со мной связаться:
 
-- **Telegram:** [@твой_ник](https://t.me/rostis1avv)
+- **Telegram:** [@rostislav](https://t.me/rostis1avv)
 - **GitHub:** Все мои олимпиадные тетрадки и ML-эксперименты лежат в репозиториях ниже 👇
 <!--
 **kaydopapi/kaydopapi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
