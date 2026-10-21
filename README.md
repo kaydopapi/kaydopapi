@@ -1,10 +1,10 @@
-# Hey, I'm Rostislav (`kaydopapi`) ⚡
+# Hi, I'm Rostislav (`kaydopapi`) ⚡
 
-> 11-классник СУНЦ НГУ (Академгородок).  
->  100% олимпиадной математики.
+> A high school student from Tomsk focused on Machine Learning, Data Science, and Olympiad Mathematics.
+
 ---
 
-### 🛠️ Стек технологий
+### 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
@@ -17,28 +17,28 @@
 
 ---
 
-### 📌 TL;DR обо мне
+### 📌 About Me
 
-- 🎓 **Где учусь:** Инфмат-класс в СУНЦ НГУ.
-- 📐 **Математика:** Профильная группа кружка Т-Банка / ФПМИ (линал, матан, теорвер).
-- 🤖 **ML & Data Science:** Базовая группа по ML — от классических моделей и фичеринжиниринга до CV и нейросетей.
-- ⚡ **Хакатоны:** Навайбкодили с командой систему реидентификации авто на ЛЦТ 2026 (SigLIP 2 + дистилляция, выбили **0.8961 mAP@10**).
-- 🧪 **Пет-проекты:** Пишу быстрые скрипты, проверяю идеи на реальных данных и автоматизирую всё, что движется.
-
----
-
-### 🎯 Текущие квесты на 2026/2027:
-
-1. [ ] Забрать **БВИ** (ФКН ВШЭ / СПбГУ НОД / ИТМО).
-2. [ ] Выйти в финал и затащить **ВсОШ по ИИ** и олимпиаду **НТО**.
-3. [ ] Найти сильных единомышленников, брать  хакатоны и собирать команду под реальный **технологический стартап**.
+- 🎓 **Education:** 11th-grade student preparing for university studies in Applied Mathematics, Computer Science, and Data Science.
+- 📐 **Mathematics:** Advanced Olympiad mathematics — number theory, combinatorics, algebra, and geometry.
+- 🤖 **Machine Learning & Data Science:** Practical Python experience with pandas, NumPy, scikit-learn, PyTorch, validation, feature engineering, classical ML, and computer vision.
+- ⚡ **Hackathons & Competitions:** I participate in ML competitions and hackathons, building end-to-end systems rather than isolated notebooks.
+- 🧪 **Projects:** I prototype ideas on real data, run experiments, and automate repetitive workflows.
 
 ---
 
-### 💬 Как со мной связаться:
+### 🎯 Current Goals
+
+1. Earn admission through high-level mathematics, AI, and data science Olympiads.
+2. Strengthen my foundations in ML, computer vision, and backend engineering.
+3. Build useful AI products with strong teammates and turn competition experience into real-world projects.
+
+---
+
+### 💬 Contact
 
 - **Telegram:** [@rostislav](https://t.me/rostis1avv)
-- **GitHub:** Все мои олимпиадные тетрадки и ML-эксперименты лежат в репозиториях ниже 👇
+- **GitHub:** My Olympiad notes, ML experiments, and project work are available in the repositories below.
 <!--
 **kaydopapi/kaydopapi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
